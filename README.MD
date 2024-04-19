@@ -19,8 +19,8 @@ Underline #2
 Tabla #1
 ------------------------
 
-| Nombe | Apellido | Carrera |
-------------------------------
-| Karen | López | Ing. en Sistemas 
+|--- Nombe ---|--- Apellido |--- Carrera ---|
+
+| Karen| López | Ing. en Sistemas| 
 
 
